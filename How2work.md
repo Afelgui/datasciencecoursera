@@ -9,4 +9,14 @@ to create a new repo
 * git push -u origin master
 
 
+
+assignment2
+
+* fork repo on site 
+* git clone https://github.com/rdpeng/ProgrammingAssignment2
+* make changes
+* git add .
+* git commit -m "mesage"
+* git push 
+
 when commit and push you need to enter the local directory, which you are pushing 
