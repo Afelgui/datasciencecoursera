@@ -7,3 +7,6 @@ to create a new repo
 * git add -A
 * git commit -m "mesage"
 * git push -u origin master
+
+
+when commit and push you need to enter the local directory, which you are pushing 
